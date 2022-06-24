@@ -18,7 +18,7 @@
 <h4>Use some packages to do it:</h4>
 <ul>
   <li>Express</li>
-  <li>Bodt Parser</li>
+  <li>Body Parser</li>
   <li>Axios</li>
   <li>Cheerio</li>
   <li>Cors</li>
