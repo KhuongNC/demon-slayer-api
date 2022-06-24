@@ -24,6 +24,7 @@
   <li>Cors</li>
   <li>Dotenv</li>
 </ul>
+<h4>Deploy at https://render.com/</h4>
 <h2>Endpoints</h2>
 <h3>Get al characters</h3>
 <p>GET https://demon-slayer-api-bf9i.onrender.com/v1/</p>
